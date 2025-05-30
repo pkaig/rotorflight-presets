@@ -132,16 +132,25 @@
       "4.4"
     ],
     "category": [
-      "OTHER"
+      "OTHER",
+      "REMAPPING"
     ],
     "author": [
+      "FlyDragonRC",
       "PDK"
     ],
     "keywords": [
-      "Telemetry"
+      "bec",
+      "ext",
+      "f.port",
+      "fbus",
+      "Telemetry",
+      "voltage"
     ],
     "board_name": [
-      "ALL"
+      "ALL",
+      "FLYDRAGONF722_V2",
+      "FLYDRAGONF722_V2_2"
     ]
   },
   "presets": [
@@ -161,6 +170,46 @@
         "Telemetry"
       ],
       "author": "PDK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/remapping/FDRC/f722v2/ext-volt-to-bec.txt",
+      "hash": "dfe50692a8a8fdf7c58842da04e912e4a307b6bdb837fe1811a4a0d8203ee683",
+      "title": "FlyDragon F722V2 EXT Voltage -> BEC",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2"
+      ],
+      "category": "REMAPPING",
+      "status": "COMMUNITY",
+      "keywords": [
+        "ext",
+        "voltage",
+        "bec"
+      ],
+      "author": "FlyDragonRC",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/remapping/FDRC/f722v2/fport-to-servo5.txt",
+      "hash": "3f246c37b8e658535627740bdc344b037d2f9ebfce64d96b4ec293c774dc9b47",
+      "title": "FlyDragon F722V2/F722V2.2 F.Port -> Servo 5 Remap",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2",
+        "FLYDRAGONF722_V2_2"
+      ],
+      "category": "REMAPPING",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fbus",
+        "f.port"
+      ],
+      "author": "FlyDragonRC",
       "priority": 0
     }
   ]
