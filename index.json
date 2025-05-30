@@ -156,7 +156,7 @@
   "presets": [
     {
       "fullPath": "presets/4.4/other/custom_telemetry.txt",
-      "hash": "87863f8d5de7a5ed4474d6bc213c65dc39556c418daddb4be759b38b5bdd33e1",
+      "hash": "2b16d02acfa4aff2fc9dd66b6c12963b92ea10d38bc0e10da953c4bad3c8d4e3",
       "title": "PKAIG - telemetry",
       "firmware_version": [
         "4.4"
@@ -166,7 +166,7 @@
         "ALL"
       ],
       "category": "OTHER",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Telemetry"
       ],
