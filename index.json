@@ -214,13 +214,14 @@
     },
     {
       "fullPath": "presets/4.4/remapping/FDRC/f722v2/ext-volt-to-bec.txt",
-      "hash": "fc00db803c4ea7d9098441d36596ceb44709b908008b72ef4d773ce156ad8d0a",
+      "hash": "ca7384e332850c5d7eedf85c03e34f473427bd3f95d4e1dfe5062342f2f4abc6",
       "title": "FlyDragon F722V2 EXT Voltage -> BEC",
       "firmware_version": [
         "4.4"
       ],
       "board_name": [
-        "FLYDRAGONF722_V2"
+        "FLYDRAGONF722_V2",
+        "FLYDRAGONF722_V2_2"
       ],
       "category": "REMAPPING",
       "status": "COMMUNITY",
