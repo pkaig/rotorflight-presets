@@ -132,35 +132,22 @@
       "4.4"
     ],
     "category": [
-      "OTHER",
-      "REMAPPING"
+      "OTHER"
     ],
     "author": [
-      "FlyDragonRC",
       "PDK"
     ],
     "keywords": [
-      "bec",
-      "ext",
-      "f.port",
-      "fbus",
-      "rpm-e",
-      "rpm-s",
-      "s.bus",
-      "sbus",
-      "Telemetry",
-      "voltage"
+      "Telemetry"
     ],
     "board_name": [
-      "",
-      "FLYDRAGONF722_V2",
-      "FLYDRAGONF722_V2_2"
+      "ALL"
     ]
   },
   "presets": [
     {
       "fullPath": "presets/4.4/other/custom_telemetry.txt",
-      "hash": "d5bd1a2ae9fd637d5cd400bedc1ec1ab9cb9de28e29a642f8458850829c53186",
+      "hash": "0129122852079c150107ac2c15091c5e1b91873a8c9f8e73983b5bd55549f10e",
       "title": "PKAIG - telemetry",
       "firmware_version": [
         "4.4"
@@ -174,104 +161,6 @@
         "Telemetry"
       ],
       "author": "PDK",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/remapping/FDRC/f722v2/ext-volt-to-bec.txt",
-      "hash": "dfe50692a8a8fdf7c58842da04e912e4a307b6bdb837fe1811a4a0d8203ee683",
-      "title": "FlyDragon F722V2 EXT Voltage -> BEC",
-      "firmware_version": [
-        "4.4"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "ext",
-        "voltage",
-        "bec"
-      ],
-      "author": "FlyDragonRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/remapping/FDRC/f722v2/fport-to-servo5.txt",
-      "hash": "3f246c37b8e658535627740bdc344b037d2f9ebfce64d96b4ec293c774dc9b47",
-      "title": "FlyDragon F722V2/F722V2.2 F.Port -> Servo 5 Remap",
-      "firmware_version": [
-        "4.4"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "fbus",
-        "f.port"
-      ],
-      "author": "FlyDragonRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/remapping/FDRC/f722v2/rpm-e.txt",
-      "hash": "d26ae24b34d7c39f3e4488fd5371cc61727a66347e803f9013389cc1b1a07159",
-      "title": "FlyDragon F722V2/F722V2.2 Enable RPM-E",
-      "firmware_version": [
-        "4.4"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rpm-e"
-      ],
-      "author": "FlyDragonRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/remapping/FDRC/f722v2/rpm-s.txt",
-      "hash": "a620cc5deb120679baa7897782a5114d907a44b10eb181afb6f42bd8314547f5",
-      "title": "FlyDragon F722V2/F722V2.2 Enable RPM-S",
-      "firmware_version": [
-        "4.4"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "rpm-s"
-      ],
-      "author": "FlyDragonRC",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.4/remapping/FDRC/f722v2/sbus-to-servo5.txt",
-      "hash": "3c441754f41c38a585e0b7c88528cbff2c4439a10a735cb9b97db21a3a3f3147",
-      "title": "FlyDragon F722V2/F722V2.2 SBUS -> Servo 5 Remap",
-      "firmware_version": [
-        "4.4"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2"
-      ],
-      "category": "REMAPPING",
-      "status": "COMMUNITY",
-      "keywords": [
-        "sbus",
-        "s.bus"
-      ],
-      "author": "FlyDragonRC",
       "priority": 0
     }
   ]
