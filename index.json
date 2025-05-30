@@ -232,6 +232,26 @@
       ],
       "author": "FlyDragonRC",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/remapping/FDRC/f722v2/testing_telemetry.txt",
+      "hash": "82d53fdd235638bc458eae1a024f58412586c8fb7c4776d5ad23f41756fdbc01",
+      "title": "FlyDragon Telemetry",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2",
+        "FLYDRAGONF722_V2_2"
+      ],
+      "category": "REMAPPING",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fbus",
+        "f.port"
+      ],
+      "author": "FlyDragonRC",
+      "priority": 0
     }
   ]
 }
