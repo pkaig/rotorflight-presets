@@ -194,6 +194,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/remapping/FDRC/f722v2/custom_telemetry.txt",
+      "hash": "2b16d02acfa4aff2fc9dd66b6c12963b92ea10d38bc0e10da953c4bad3c8d4e3",
+      "title": "PKAIG - telemetry",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2",
+        "ALL"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "Telemetry"
+      ],
+      "author": "PDK",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/remapping/FDRC/f722v2/ext-volt-to-bec.txt",
       "hash": "fc00db803c4ea7d9098441d36596ceb44709b908008b72ef4d773ce156ad8d0a",
       "title": "FlyDragon F722V2 EXT Voltage -> BEC",
