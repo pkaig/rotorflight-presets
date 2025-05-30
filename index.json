@@ -156,12 +156,13 @@
   "presets": [
     {
       "fullPath": "presets/4.4/other/custom_telemetry.txt",
-      "hash": "0129122852079c150107ac2c15091c5e1b91873a8c9f8e73983b5bd55549f10e",
+      "hash": "87863f8d5de7a5ed4474d6bc213c65dc39556c418daddb4be759b38b5bdd33e1",
       "title": "PKAIG - telemetry",
       "firmware_version": [
         "4.4"
       ],
       "board_name": [
+        "FLYDRAGONF722_V2",
         "ALL"
       ],
       "category": "OTHER",
