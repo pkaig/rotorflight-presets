@@ -174,6 +174,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/Testing Telemetry.txt",
+      "hash": "290a9b6fc5261e03a2aceb86f270995c6453fae994785c574bde9d2a4656d5c4",
+      "title": "PDK Custom Telemetry",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2",
+        "FLYDRAGONF722_V2_2"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "telemetry"
+      ],
+      "author": "PDK",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/remapping/FDRC/f722v2/custom_telemetry.txt",
       "hash": "2b16d02acfa4aff2fc9dd66b6c12963b92ea10d38bc0e10da953c4bad3c8d4e3",
       "title": "PKAIG - telemetry",
