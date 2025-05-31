@@ -132,17 +132,23 @@
       "4.4"
     ],
     "category": [
-      "OTHER"
+      "OTHER",
+      "REMAPPING"
     ],
     "author": [
+      "FlyDragonRC",
       "PDK"
     ],
     "keywords": [
-      "Telemetry"
+      "bec",
+      "ext",
+      "Telemetry",
+      "voltage"
     ],
     "board_name": [
       "ALL",
-      "FLYDRAGONF722_V2"
+      "FLYDRAGONF722_V2",
+      "FLYDRAGONF722_V2_2"
     ]
   },
   "presets": [
@@ -182,6 +188,27 @@
         "Telemetry"
       ],
       "author": "PDK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/remapping/FDRC/f722v2/ext-volt-to-bec.txt",
+      "hash": "ca7384e332850c5d7eedf85c03e34f473427bd3f95d4e1dfe5062342f2f4abc6",
+      "title": "FlyDragon F722V2 EXT Voltage -> BEC",
+      "firmware_version": [
+        "4.4"
+      ],
+      "board_name": [
+        "FLYDRAGONF722_V2",
+        "FLYDRAGONF722_V2_2"
+      ],
+      "category": "REMAPPING",
+      "status": "COMMUNITY",
+      "keywords": [
+        "ext",
+        "voltage",
+        "bec"
+      ],
+      "author": "FlyDragonRC",
       "priority": 0
     }
   ]
