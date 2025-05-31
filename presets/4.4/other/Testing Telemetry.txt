@@ -1,8 +1,6 @@
 #$ TITLE: PDK Custom Telemetry
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
-#$ BOARD_NAME: FLYDRAGONF722_V2
-#$ BOARD_NAME: FLYDRAGONF722_V2_2
 #$ CATEGORY: OTHER
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: telemetry
@@ -10,6 +8,4 @@
 #$ DESCRIPTION: Define Custom Telemetry Sensors
 #$ PRIORITY: 0
 
-#resource SERIAL_TX 2 none
-# Testing for commands
 set telemetry_sensors = 3,8,7,43,60,61,88,89,91,99,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

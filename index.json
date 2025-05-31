@@ -176,15 +176,11 @@
     },
     {
       "fullPath": "presets/4.4/other/Testing Telemetry.txt",
-      "hash": "79301e58ed969c215bfeb0a0b43973b194bd6f73d55d34584f233644dbd53109",
+      "hash": "89c0c24283917989e62b833d6ed01ee32e97eeb80d9407075cc5ccbaf295ad86",
       "title": "PDK Custom Telemetry",
       "firmware_version": [
         "4.4",
         "4.5"
-      ],
-      "board_name": [
-        "FLYDRAGONF722_V2",
-        "FLYDRAGONF722_V2_2"
       ],
       "category": "OTHER",
       "status": "EXPERIMENTAL",
