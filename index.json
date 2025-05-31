@@ -175,7 +175,7 @@
     },
     {
       "fullPath": "presets/4.4/other/Testing Telemetry.txt",
-      "hash": "290a9b6fc5261e03a2aceb86f270995c6453fae994785c574bde9d2a4656d5c4",
+      "hash": "26269fd52475fa8ca62168357b32a119d5f21707e6e9d6b281e3ea08f44adfb0",
       "title": "PDK Custom Telemetry",
       "firmware_version": [
         "4.4"
