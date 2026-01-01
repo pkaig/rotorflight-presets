@@ -1,0 +1,11 @@
+#$ TITLE: PKAIG - telemetry
+#$ FIRMWARE_VERSION: 4.x
+#$ BOARD_NAME: ALL
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: Telemetry
+#$ AUTHOR: PDK
+#$ DESCRIPTION: My custom Telemetry
+#$ PRIORITY: 0
+
+set telemetry_sensors = 3,8,7,43,60,61,88,89,91,99,95,4,5,6,90,93,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
